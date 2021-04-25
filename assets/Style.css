@@ -1,0 +1,32 @@
+body{
+    background: rgb(70, 142, 236);
+    font: normal 15pt Arial;
+}
+header{
+    color: white;
+    text-align: center;
+    margin-top: 45px;
+}
+h1 {
+    text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+}
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 5px 20px 25px 20px;
+    width: 580px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+}
+input{
+    font-size: 15px;
+}
+select{
+    width: 200px;
+    font-size: 20px;
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
